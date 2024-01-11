@@ -1,9 +1,0 @@
-# Preface {.unnumbered}
-
-Welcome to the preface of the Data Scientist's Handbook: Mastering Inferential Statistics!
-
-This handbook is a dedicated effort to instill a profound understanding of the pivotal role statistics plays in the world of data science. As we delve into the pages ahead, the intention is clear - to guide both current and prospective data scientists through a comprehensive learning experience. 
-
-Starting from the fundamentals and gradually progressing to advanced applications, this handbook is crafted to be an indispensable companion on your quest for statistical mastery. 
-
-I invite you to embrace the challenge and enrichment that comes with exploring inferential statistics, as we together pave the way for a deeper appreciation and utilization of statistical methods in the fascinating realm of data science.
