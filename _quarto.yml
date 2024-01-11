@@ -2,9 +2,8 @@ project:
   type: book
 
 book:
-  title: "A Data Scientist's Guide to Inferential Statistics"
+  title: "Data Scientist's Handbook: Mastering Inferential Statistics"
   author: "Brian Cervantes Alvarez"
-  date: "1/10/2024"
   chapters:
     - index.qmd
     - intro.qmd
