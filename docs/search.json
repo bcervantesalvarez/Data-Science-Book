@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
+    "section": "",
+    "text": "Preface\nWelcome to the preface of the Data Scientist’s Handbook: Mastering Inferential Statistics!\nThis handbook is a dedicated effort to instill a profound understanding of the pivotal role statistics plays in the world of data science. As we delve into the pages ahead, the intention is clear - to guide both current and prospective data scientists through a comprehensive learning experience.\nStarting from the fundamentals and gradually progressing to advanced applications, this handbook is crafted to be an indispensable companion on your quest for statistical mastery.\nI invite you to embrace the challenge and enrichment that comes with exploring inferential statistics, as we together pave the way for a deeper appreciation and utilization of statistical methods in the fascinating realm of data science."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "",
+    "section": "",
+    "text": "Introduction\nThis is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "",
+    "section": "",
+    "text": "Summary\nIn summary, this book has no content whatsoever."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "",
+    "section": "",
+    "text": "References"
+  }
+]
