@@ -3,7 +3,6 @@ project:
   output-dir: _book
 
 book:
-  reader-mode: true
   title: "Data Scientist's Handbook: Mastering Inferential Statistics"
   author: "Brian Cervantes Alvarez"
   chapters:
@@ -11,6 +10,8 @@ book:
     - intro.qmd
     - summary.qmd
     - references.qmd
+  page-navigation: true
+  repo-branch: main
 
 bibliography: references.bib
 
